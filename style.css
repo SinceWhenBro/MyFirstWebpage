@@ -1,0 +1,19 @@
+*{
+  background-color: lightcyan;
+}
+.wrapper {
+	width: 980px;
+	margin: auto;
+}
+header{
+  background-color: grey;
+  padding-bottom: 40px;
+}
+header h1 {
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-size: 40px;
+	float: center;
+	padding-top: 50px;
+  padding-left: 275px;
+	margin: 0 0 0 20px;
+}
